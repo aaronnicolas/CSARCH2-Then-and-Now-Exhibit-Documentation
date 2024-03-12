@@ -18,7 +18,7 @@ The Controller Evolution Exhibit aims to highlight the progression of controller
 - **Controller Information Website:** Learn more about each controller by era and see the their photo gallery including its patents
 
 ## YouTube Presentation
-Watch our presentation on the Controller Evolution Exhibit: [[YouTube Link]](https://www.youtube.com/watch?v=VeBN8nkSv3I)
+Watch our supplementary video for the Controller Evolution Exhibit: [[YouTube Link]](https://www.youtube.com/watch?v=VeBN8nkSv3I)
 
 ## Website
 Explore the evolution of each controller throughout different eras and delve into their unique features. Discover their design nuances and technological advancements through detailed descriptions and an extensive photo gallery, which includes images of their original patents.
