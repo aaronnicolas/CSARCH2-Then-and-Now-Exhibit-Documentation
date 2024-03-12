@@ -31,7 +31,6 @@ Group: 6 <br />
 Section: S12 <br />
 - Christian Dela Peña: 
 - Miguel Francis Estañol
+- Michael Joseph Go
 - Aaron Rae Nicolas
 - Hans David Tuballa
-- Michael Joseph Go
-
