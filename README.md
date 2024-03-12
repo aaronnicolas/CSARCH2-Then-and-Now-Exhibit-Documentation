@@ -1,6 +1,6 @@
 # Controller Evolution Exhibit Documentation
 
-Welcome to the documentation for our Controller Evolution Exhibit, showcasing the advancement of controllers. The exhibit was held on March 7th and March 8th, 2024.
+This is the documentation for our Controller Evolution Exhibit, showcasing the advancement of controllers. The exhibit was held on March 7th and March 8th, 2024.
 
 ## About the Exhibit
 The Controller Evolution Exhibit aims to highlight the progression of controllers over time, from their inception to modern innovations. Visitors will have the opportunity to explore various types of controllers and learn about their evolution in gaming, technology, and beyond.
