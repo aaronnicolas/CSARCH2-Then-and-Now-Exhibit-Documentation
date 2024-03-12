@@ -13,7 +13,7 @@ The Controller Evolution Exhibit aims to highlight the progression of controller
 - **Pre-2000s Controllers:** Explore vintage controllers from the early days of gaming.
 - **2000s Controllers:** Experience the advancements in controller technology during the 2000s.
 - **Modern Era Controllers:** Experience the latest advancements in controller technology.
-- **Interactive Booth:** Engage with the interactive exhibit by using the controller to play games in our NES emulator.
+- **Interactive Booth:** Engage with the interactive exhibit by using the controller to play games in our NES emulator and listen to an informative video!
 - **Speakers:** Listen to us discuss the advancement of controller design and technology.
 - **Controller Information Website:** Learn more about each controller by era and see the their photo gallery including its patents
 
