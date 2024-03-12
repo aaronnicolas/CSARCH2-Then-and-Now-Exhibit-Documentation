@@ -26,6 +26,7 @@ For more information and updates, visit our website: [[Website Link]](https://ww
 
 
 ## Group Members
+Group: 6
 Section: S12
 - Christian Dela Peña: 
 - Miguel Francis Estañol
