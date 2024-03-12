@@ -26,8 +26,8 @@ For more information and updates, visit our website: [[Website Link]](https://ww
 
 
 ## Group Members
-Group: 6
-Section: S12
+Group: 6 <br />
+Section: S12 <br />
 - Christian Dela Peña: 
 - Miguel Francis Estañol
 - Aaron Rae Nicolas
