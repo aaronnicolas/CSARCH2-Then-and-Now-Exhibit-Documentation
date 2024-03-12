@@ -16,6 +16,7 @@ The Controller Evolution Exhibit aims to highlight the progression of controller
 - **Interactive Booth:** Engage with the interactive exhibit by using the controller to play games in our NES emulator and listen to an informative video!
 - **Speakers:** Listen to us discuss the advancement of controller design and technology.
 - **Controller Information Website:** Learn more about each controller by era and see the their photo gallery including its patents
+- **Promotional Materials:** Experience the evolution of controllers with our captivating Timeline poster! Fliers were also given out to promote our booth and see a sneak peek of what to expect! Lastly, a big poster to showcase what our booth is all about!
 
 ## YouTube Presentation
 Watch our supplementary video for the Controller Evolution Exhibit: [[YouTube Link]](https://www.youtube.com/watch?v=VeBN8nkSv3I)
